@@ -145,7 +145,7 @@ export function Navigation() {
           {/* Contact and CTA */}
           <div className="hidden md:flex items-center space-x-4">
             <a 
-              href="https://wa.me/3197010265593" 
+              href="https://wa.me/3197010269023" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-sm font-medium bg-white/5 hover:bg-white/10 transition-all px-4 py-2 rounded-full border border-white/10 hover:border-white/20 cursor-pointer group"
