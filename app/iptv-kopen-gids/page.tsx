@@ -341,7 +341,7 @@ export default function IptvKopenGids() {
               </Link>
             </Button>
             <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white/10">
-              <a href="tel:+31850000000">
+              <a href="tel:+3197010265593">
                 Bel voor advies
               </a>
             </Button>

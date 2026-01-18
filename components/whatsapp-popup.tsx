@@ -27,9 +27,9 @@ export function WhatsAppPopup({
     setMessage(`Hallo, ik wil graag het volgende bestellen:\n\n- Abonnement: ${planName}\n- Looptijd: ${period}\n- Aantal apparaten: ${devices} apparaat${devices > 1 ? 'en' : ''}\n\nKunt u mij hier meer over vertellen?`);
   }, [planName, period, devices]);
   
-  const whatsappUrl = `https://wa.me/212766269594?text=${encodeURIComponent(message)}`;
-  const phoneNumber = '+212 766 269 594';
-  const rawPhoneNumber = '+212766269594';
+  const whatsappUrl = `https://wa.me/3197010265593?text=${encodeURIComponent(message)}`;
+  const phoneNumber = '+31 970 10 265 593';
+  const rawPhoneNumber = '+3197010265593';
 
   const handleBackdropClick = (e: React.MouseEvent) => {
     if (e.target === e.currentTarget) {
