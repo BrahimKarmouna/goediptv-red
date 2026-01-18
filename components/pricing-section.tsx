@@ -141,7 +141,7 @@ function WhatsAppPopup({ onClose, planName }: { onClose: () => void, planName: s
 
 
 Kunt u mij hier meer over vertellen?`;
-  const whatsappUrl = `https://api.whatsapp.com/send/?phone=3197010270035&text=${encodeURIComponent(message)}&type=phone_number&app_absent=0`;
+  const whatsappUrl = `https://api.whatsapp.com/send/?phone=212766269594&text=${encodeURIComponent(message)}&type=phone_number&app_absent=0`;
 
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4 transition-all duration-300 animate-fadeIn overflow-y-auto py-16">

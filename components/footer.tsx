@@ -210,7 +210,7 @@ export function Footer() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-foreground">Telefonische support</p>
-                  <p className="text-sm text-muted-foreground">+31 970 102 7003</p>
+                  <p className="text-sm text-muted-foreground">+212 766 269 594</p>
                 </div>
               </div>
               
@@ -300,7 +300,7 @@ export function Footer() {
       {/* Floating WhatsApp Button */}
       <div className="fixed bottom-8 right-8 z-50">
         <a
-          href="https://api.whatsapp.com/send/?phone=3197010270035&type=phone_number&app_absent=0"
+          href="https://api.whatsapp.com/send/?phone=212766269594&type=phone_number&app_absent=0"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#25D366] hover:bg-[#128C7E] text-white rounded-full p-4 shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center group cursor-pointer animate-bounce hover:animate-none"

@@ -227,7 +227,7 @@ export default function IptvKopenPage() {
               <Link href="/#pricing">Bekijk alle pakketten</Link>
             </Button>
             <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white/10">
-              <a href="https://wa.me/3197010270035" target="_blank" rel="noopener noreferrer">Hulp nodig? Chat met ons</a>
+              <a href="https://wa.me/212766269594" target="_blank" rel="noopener noreferrer">Hulp nodig? Chat met ons</a>
             </Button>
           </div>
         </div>
